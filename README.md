@@ -1,3 +1,5 @@
+**_I am going to keep this copy of the Boxen repo, but as of the 21st I stopped using it for my provision/configuration stuff because of [an issue](https://github.com/boxen/boxen/issues/197 "Boxen issue 197") I stumbled across while trying to get my Ruby Env to read the /opt/boxen path. Since I also recently had a problem with my nodenv, the fact that Github isn't actively supporting that effort makes me more inclined to dump it entirely._**
+
 # Our Boxen
 
 This is a template Boxen project designed for your organization to fork and
